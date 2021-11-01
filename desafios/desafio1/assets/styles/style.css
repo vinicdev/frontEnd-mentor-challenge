@@ -156,3 +156,51 @@ html {
     width: 99%;
     text-align: center;
 }
+
+@media (max-width: 600px){
+    .section-top {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .block-left {
+        width: 300px;
+        margin: 100px 0 30px 5px;
+    }
+
+    #title {
+        width: 370px;
+        text-align: center;
+        font-weight: 700;
+        font-size: 40px;
+    
+        color: hsl(300, 43%, 22%);
+    
+        padding-bottom: 10px;
+    }
+
+    #caption {
+        width: 370px;
+        text-align: center;
+        font-weight: 400;
+    
+        line-height: 25px;
+    }
+
+    .block-right {
+        width: 370px;
+        margin: 10px 0px;
+    
+        color: hsl(300, 43%, 22%);
+        
+        font-weight: 700;
+    }
+
+    #box-1, #box-2, #box-3 {
+        background-color: hsl(300, 24%, 96%);
+        width: 300px;
+        height: 35px;
+        border-radius: 10px;
+        padding-top: 20px;
+    }
+}
