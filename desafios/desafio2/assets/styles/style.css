@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Spartan', sans-serif;
+}
+
+html {
+    /* background-image: url('/assets/images/bg-desktop.png');
+    background-repeat: no-repeat;
+    background-position: center; */
+
+    background-color: hsl(229, 57%, 11%);
+}
+
+.block-left {
+    margin: 320px 20px 0 220px;
+    width: 300px;
+    height: 170px;
+    border-radius: 10px 110px 10px 10px;
+    background-color: hsl(228, 56%, 26%);
+}
+
+#logo {
+    width: 120px;
+    height: 40px;
+    margin: 30px 0 10px 35px;
+}
+
+.buttons {
+ display: flex;
+ flex-direction: row;
+ width: 250px;
+ margin-left: 30px;
+
+}
+
+.background-button1, .background-button2, .background-button3 {
+    background-color: hsl(229, 57%, 11%);
+    width: 50px;
+    height: 45px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.background-button1 {
+    /* margin: 5px; */
+}
+
+#icon {
+    width: 25px;
+    height: 22px;
+    
+    position: relative;
+    top: 25%;
+    left: 27%;
+
+}
