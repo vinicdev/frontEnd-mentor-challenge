@@ -15,8 +15,8 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- Pale Blue: hsl(243, 100%, 93%)
-- Grayish Blue: hsl(229, 7%, 55%)
+- Pale Blue: hsl(243, 100%, 93%) balao do 185
+- Grayish Blue: hsl(229, 7%, 55%) letra 185gb
 - Dark Blue: hsl(228, 56%, 26%)
 - Very Dark Blue: hsl(229, 57%, 11%)
 
